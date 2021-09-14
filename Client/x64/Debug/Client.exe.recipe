@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\김영태\source\repos\Client\x64\Debug\Client.exe</FullPath>
+      <FullPath>C:\Users\김영태\source\repos\Client\Output\Client.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
